@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+#### Check out my blog and resume at [gpuslave.github.io](https://gpuslave.github.io/) 
 <!--
 **gpuslave/gpuslave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
