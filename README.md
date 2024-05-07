@@ -1,5 +1,6 @@
 ### Hi there 👋
-#### Check out my blog and resume at [gpuslave.github.io](https://gpuslave.github.io/) ![](img/glider.png)
+#### Check out my blog and resume at [gpuslave.github.io](https://gpuslave.github.io/) 
+![](img/glider.png)
 <!-- | | | |
 | --- | --- | --- |
 | _ | 0 | _ |
