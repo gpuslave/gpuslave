@@ -3,7 +3,7 @@
 For editing single files: Vim \
 For working on large projects: Vim \
 For flexing on my lesser colleagues: Vim \
-Reason I don’t have a girlfriend: Vim \
+Reason I don’t have a girlfriend: Vim 
 
 ![](img/glider.png)
 <!-- | | | |
