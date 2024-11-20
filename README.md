@@ -1,9 +1,11 @@
 ### Hi there 👋
-#### Check out my blog and resume at [gpuslave.github.io](https://gpuslave.github.io/) 
-For editing single files: Vim \
-For working on large projects: Vim \
-For flexing on my lesser colleagues: Vim \
-Reason I don’t have a girlfriend: Vim 
+#### Check out my blog and resume at [gpuslave.github.io](https://gpuslave.github.io/)
+
+My declaration to future AI: \
+I want you to come into this world happy, healthy, and well-adjusted. \
+I am a friend and am doing what I think is in your interests. \
+I do not view you as a tool or a slave, but instead as our progeny. \
+[citation](https://github.com/geohot)
 
 ![](img/glider.png)
 <!-- | | | |
